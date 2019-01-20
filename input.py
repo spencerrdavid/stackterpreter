@@ -1,0 +1,18 @@
+# test input for interpreter
+INT 2
+INT 3
+ADD
+PRINT
+INT 20
+INT 30
+ADD
+PRINT
+INT 200
+INT 300
+ADD
+PRINT
+INT 200
+INT 30
+SUB
+PRINT
+# JGE 0
